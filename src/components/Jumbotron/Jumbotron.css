@@ -1,0 +1,35 @@
+/*JUMBOTRON*/
+
+.jumbotron {
+    background-image: url("https://wallpapercave.com/wp/HCgbgbE.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-family: "Press Start 2P", cursive;
+    color: red;
+}
+
+.jumbotron p {
+    font-family: "Press Start 2P", cursive;
+    color: red;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.App-logo {
+    width: 75%;
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+	.jumbotron h1{
+		font-size: 30px;
+	}
+}

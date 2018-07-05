@@ -1,0 +1,98 @@
+[
+{
+    "id": 1,
+    "name": "Alex",
+    "clicked": false,
+    "image": "../images/alex.jpg"
+},
+{
+    "id": 2,
+    "name": "Balrog",
+    "clicked": false,
+    "image": "../images/balrog.jpg"
+},
+{
+    "id": 3,
+    "name": "C.Viper",
+    "clicked": false,
+    "image": "../images/crimson.jpg"
+},
+{
+    "id": 4,
+    "name": "DeeJay",
+    "clicked": false,
+    "image": "../images/deejay.jpg"
+},
+{
+    "id": 5,
+    "name": "Eagle",
+    "clicked": false,
+    "image": "../images/eagle.jpg"
+},
+{
+    "id": 6,
+    "name": "FANG",
+    "clicked": false,
+    "image": "../images/fang.jpg"
+},
+{
+    "id": 7,
+    "name": "Guile",
+    "clicked": false,
+    "image": "../images/guile.jpg"
+},
+{
+    "id": 8,
+    "name": "Hugo",
+    "clicked": false,
+    "image": "../images/hugo.jpg"
+},
+{
+    "id": 9,
+    "name": "Ibuki",
+    "clicked": false,
+    "image": "../images/ibuki.jpg"
+},
+{
+    "id": 10,
+    "name": "Joe",
+    "clicked": false,
+    "image": "../images/joe.jpg"
+},
+{
+    "id": 11,
+    "name": "Karin",
+    "clicked": false,
+    "image": "../images/karin.jpg"
+},
+{
+    "id": 12,
+    "name": "Lee",
+    "clicked": false,
+    "image": "../images/lee.jpg"
+},
+{
+    "id": 13,
+    "name": "M. Bison",
+    "clicked": false,
+    "image": "../images/mbison.jpg"
+},
+{
+    "id": 14,
+    "name": "Necalli",
+    "clicked": false,
+    "image": "../images/necalli.jpg"
+},
+{
+    "id": 15,
+    "name": "Oro",
+    "clicked": false,
+    "image": "../images/oro.jpg"
+},
+{
+    "id": 16,
+    "name": "Poison",
+    "clicked": false,
+    "image": "../images/poison.jpg"
+}
+]
