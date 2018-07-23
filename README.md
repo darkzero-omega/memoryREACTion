@@ -1,4 +1,4 @@
-﻿Mega Man Memory Game
+﻿Street Fighter Memory Game
 
 Memory game built using React
 
@@ -14,4 +14,4 @@ Memory game built using React
 
 6) Once the user's score is reset after an incorrect guess, the game restarts
 
-Brandon Triplett (C) 2018
+Terrance J Kennedy Jr. (C) 2018
